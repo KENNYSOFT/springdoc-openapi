@@ -6,7 +6,7 @@
 		<version>1.6.4-SNAPSHOT</version>
 	</parent>
     <properties>
-		<spring.version>5.3.6</spring.version>
+		<spring.version>6.1.13</spring.version>
 	</properties>
 	<artifactId>springdoc-openapi-kotlin</artifactId>
 	<dependencies>
